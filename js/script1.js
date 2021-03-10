@@ -1,3 +1,4 @@
+/*
 // Question 1
 var fabric = "wool";
 var threads = 15;
@@ -26,7 +27,7 @@ for (var i = 7; i <= 13; i++) {
   console.log(i);
 }
 
-/*
+
 // Question 1
 var integer = 5;
 var decimal = 7.3;
